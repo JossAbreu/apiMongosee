@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65b15c1224969b253ee0e875"
+  },
+  "name": "iphone 12 ",
+  "cost_buy": 400,
+  "cost_sale": 700,
+  "description": "23",
+  "store": {
+    "$oid": "658daf07c991d5597df9d332"
+  },
+  "tax": {
+    "$oid": "65b14daab36126b5aae37ff2"
+  },
+  "image": "",
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2c0b58a14437b1f0daa2a"
+  },
+  "name": "Iphone 13 ",
+  "cost_buy": 500,
+  "cost_sale": 800,
+  "description": "iphone",
+  "store": {
+    "$oid": "658daef4c991d5597df9d330"
+  },
+  "tax": {
+    "$oid": "65b14daab36126b5aae37ff2"
+  },
+  "image": "",
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2c1428a14437b1f0daa4a"
+  },
+  "name": "test",
+  "cost_buy": 342,
+  "cost_sale": 234423,
+  "description": "324",
+  "store": {
+    "$oid": "658daf07c991d5597df9d332"
+  },
+  "tax": {
+    "$oid": "65b14db2b36126b5aae37ff7"
+  },
+  "image": "",
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2c21b8a14437b1f0daa52"
+  },
+  "name": "iphone 13 pro max ",
+  "cost_buy": 500,
+  "cost_sale": 1000,
+  "description": "34",
+  "store": {
+    "$oid": "658daf07c991d5597df9d332"
+  },
+  "tax": {
+    "$oid": "65b14daab36126b5aae37ff2"
+  },
+  "image": "",
+  "state": "activo",
+  "__v": 0
+}]

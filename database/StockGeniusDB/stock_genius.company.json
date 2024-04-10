@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "65ca79176b8c6c7832c99d27"
+  },
+  "name": "Stock Genius company",
+  "description": "Bienvenido a Stock genius, tu solución integral para gestionar eficientemente la facturación y el inventario de tu negocio. Nuestra plataforma está diseñada para simplificar y optimizar tus operaciones, brindándote el control total sobre tus transacciones y existencias.",
+  "email": "StockGenius@gmail.com",
+  "location": "La vega republica dominicana",
+  "phone": {
+    "$numberLong": "8092342332"
+  },
+  "rnc": 101234567,
+  "state": true,
+  "__v": 0
+}]

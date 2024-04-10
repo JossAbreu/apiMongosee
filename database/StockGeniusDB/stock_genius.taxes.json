@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65b14daab36126b5aae37ff2"
+  },
+  "tax_value": 0.18,
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b14db2b36126b5aae37ff7"
+  },
+  "tax_value": 0.51,
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b15120b36126b5aae3803a"
+  },
+  "tax_value": 0.53,
+  "state": "activo",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b1569c770c5562c49f60ee"
+  },
+  "tax_value": 0.34,
+  "state": "activo",
+  "__v": 0
+}]

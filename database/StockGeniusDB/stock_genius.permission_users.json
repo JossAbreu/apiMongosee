@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "65c145f5d333c2bd18dd9091"
+  },
+  "user_id": {
+    "$oid": "654e8be7f74755ab4f79d9cf"
+  },
+  "permissions": {
+    "dashboard": {
+      "view_dashboard": true
+    },
+    "products": {
+      "view_products": true,
+      "add_product": false,
+      "edit_product": false,
+      "adm_taxes": true
+    },
+    "stores": {
+      "view_stores": true,
+      "add_store": true,
+      "edit_store": true
+    },
+    "stocks": {
+      "view_stocks": true,
+      "adm_stock": true
+    },
+    "invoice": {
+      "view_invoices": true,
+      "create_invoice": true
+    }
+  },
+  "__v": 0
+}]
